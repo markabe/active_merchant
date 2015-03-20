@@ -201,6 +201,9 @@ exact:
   login: "A00427-01"
   password: testus
 
+ezic:
+  account_id: SOMECREDENTIAL
+
 # Working credentials, no need to replace
 fat_zebra:
   username: TEST
